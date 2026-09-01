@@ -10,6 +10,7 @@ Tracking my journey through Data Structures and Algorithms — curated solutions
 | [0560-subarray-sum-equals-k](https://github.com/Suraj-0971/dsa-practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Suraj-0971/dsa-practice-/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Suraj-0971/dsa-practice-/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Suraj-0971/dsa-practice-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Suraj-0971/dsa-practice-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Suraj-0971/dsa-practice-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Dynamic Programming
@@ -36,8 +37,10 @@ Tracking my journey through Data Structures and Algorithms — curated solutions
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Suraj-0971/dsa-practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Suraj-0971/dsa-practice-/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Suraj-0971/dsa-practice-/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Suraj-0971/dsa-practice-/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Suraj-0971/dsa-practice-/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
