@@ -13,6 +13,7 @@ Tracking my journey through Data Structures and Algorithms — curated solutions
 | [0974-subarray-sums-divisible-by-k](https://github.com/Suraj-0971/dsa-practice-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Suraj-0971/dsa-practice-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Suraj-0971/dsa-practice-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Suraj-0971/dsa-practice-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,4 +44,8 @@ Tracking my journey through Data Structures and Algorithms — curated solutions
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Suraj-0971/dsa-practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Suraj-0971/dsa-practice-/tree/master/0974-subarray-sums-divisible-by-k) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/Suraj-0971/dsa-practice-/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
