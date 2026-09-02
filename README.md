@@ -7,6 +7,7 @@ Tracking my journey through Data Structures and Algorithms — curated solutions
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Suraj-0971/dsa-practice-/tree/master/0152-maximum-product-subarray) |
+| [0525-contiguous-array](https://github.com/Suraj-0971/dsa-practice-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Suraj-0971/dsa-practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Suraj-0971/dsa-practice-/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Suraj-0971/dsa-practice-/tree/master/0918-maximum-sum-circular-subarray) |
@@ -36,12 +37,14 @@ Tracking my journey through Data Structures and Algorithms — curated solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Suraj-0971/dsa-practice-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Suraj-0971/dsa-practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Suraj-0971/dsa-practice-/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Suraj-0971/dsa-practice-/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Suraj-0971/dsa-practice-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Suraj-0971/dsa-practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Suraj-0971/dsa-practice-/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Math
